@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sami
 ![frontend](https://github.com/samiigll/samigul/assets/148059353/2cf5f71c-169f-4b31-bcaa-26779e2ecd95)
 
-# 💻 Tech Stack: VUE JS / REACT / JS / HTML / CSS / TREE JS
+# 💻 Tech Stack: VUE JS / REACT / JS / HTML / CSS / TREE JS 
 
 
 
