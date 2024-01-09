@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Sami
-#### Frontend Developer 
-
-![frontend](https://github.com/samiigll/samigul/assets/148059353/0cb056fb-d588-4ce3-8704-244a8c8d4af2)
-
+![frontend](https://github.com/samiigll/samigul/assets/148059353/2cf5f71c-169f-4b31-bcaa-26779e2ecd95)
 
 # 💻 Tech Stack: VUE JS / REACT / JS / HTML / CSS / TREE JS
 
